@@ -64,10 +64,10 @@ body {
   background-clip: padding-box;
   position: relative;
   display: block;
-  margin: 0px auto 0px auto;
+  margin: 0 auto;
   max-width: 100%;
   height: auto;
-  vertical-align: top 5%;
+  padding-bottom: 50px;
 }
 
 .image {
@@ -163,5 +163,3 @@ footer {
 .bottom .bottom__link-site {
   padding: 0 3px;
 }
-
-/*# sourceMappingURL=style.css.map */
